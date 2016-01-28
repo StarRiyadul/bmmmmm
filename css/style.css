@@ -1,0 +1,27 @@
+*{
+	text-align: center;
+	background-color: black;
+	color: #1E90FF;
+}
+
+.input1{margin-bottom:20px;margin-left:-7px;}
+.input2{margin-bottom:20px;}
+#result {
+  margin-top: 58px;
+  font-weight: 900;
+  word-spacing: 22px;
+  text-transform: uppercase;
+  margin-left: 34px;
+}
+
+button {
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+  width: 140px;
+  margin-left: 37px;
+}
+button:hover{background-color: #fff;color:black;}
+.good{ color:green;}
+.thin {color:yellow;}
+.fat{color:red;}
